@@ -13,33 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-22T16:25:09.617+02:00
-  initializedAtString: 2021-02-22T16:25:09.617+02:00
+  lastUpdatedAtString: 2021-02-22T16:36:38.830+02:00
+  initializedAtString: 2021-02-22T16:34:55.282+02:00
   entries:
+  - path: Mini2D\Assets\Circle.png
+    fullPath: D:\GitHub\Test\Mini2D\Assets\Circle.png
+    projectPath: Assets\Circle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mini2D\Assets\Circle.png.meta
+    fullPath: D:\GitHub\Test\Mini2D\Assets\Circle.png.meta
+    projectPath: Assets\Circle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mini2D\Assets\Scenes\SampleScene.unity
     fullPath: D:\GitHub\Test\Mini2D\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Mini2D\Assets\Square.png
+    fullPath: D:\GitHub\Test\Mini2D\Assets\Square.png
+    projectPath: Assets\Square.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mini2D\Assets\Square.png.meta
+    fullPath: D:\GitHub\Test\Mini2D\Assets\Square.png.meta
+    projectPath: Assets\Square.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Mini2D\Library\ArtifactDB
     fullPath: D:\GitHub\Test\Mini2D\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Mini2D\Library\Artifacts\25\259012d098db97f239a7676bedc45dc4
-    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\25\259012d098db97f239a7676bedc45dc4
-    projectPath: Library\Artifacts\25\259012d098db97f239a7676bedc45dc4
+  - path: Mini2D\Library\Artifacts\1a\1ae90625a6d7a24a64159241fc0e2218
+    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\1a\1ae90625a6d7a24a64159241fc0e2218
+    projectPath: Library\Artifacts\1a\1ae90625a6d7a24a64159241fc0e2218
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Mini2D\Library\Artifacts\f8\f8aca5d3448d002e0de1c120af831044
-    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\f8\f8aca5d3448d002e0de1c120af831044
-    projectPath: Library\Artifacts\f8\f8aca5d3448d002e0de1c120af831044
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mini2D\Library\Artifacts\4a\4a1e029b88a62542c463c03cfcee66b4
+    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\4a\4a1e029b88a62542c463c03cfcee66b4
+    projectPath: Library\Artifacts\4a\4a1e029b88a62542c463c03cfcee66b4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mini2D\Library\Artifacts\68\68ea0a86751394d0da553f010d14fc6e
+    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\68\68ea0a86751394d0da553f010d14fc6e
+    projectPath: Library\Artifacts\68\68ea0a86751394d0da553f010d14fc6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mini2D\Library\Artifacts\c6\c63541dad0018940f4ca847e7938be5c
+    fullPath: D:\GitHub\Test\Mini2D\Library\Artifacts\c6\c63541dad0018940f4ca847e7938be5c
+    projectPath: Library\Artifacts\c6\c63541dad0018940f4ca847e7938be5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Mini2D\Library\EditorInstance.json
     fullPath: D:\GitHub\Test\Mini2D\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -50,20 +86,26 @@ MonoBehaviour:
     fullPath: D:\GitHub\Test\Mini2D\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mini2D\Library\gfu\cache\gitstatusentries.yaml
     fullPath: D:\GitHub\Test\Mini2D\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mini2D\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\GitHub\Test\Mini2D\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mini2D\Library\gfu\cache\repoinfo.yaml
     fullPath: D:\GitHub\Test\Mini2D\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Mini2D\Library\SceneVisibilityState.asset
     fullPath: D:\GitHub\Test\Mini2D\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
